@@ -1,9 +1,9 @@
-<h1 style="text-align: center">MohaIsReal
+<h1 style="text-align:center">MohaIsReal
 
 [![](https://visitcount.itsvg.in/api?id=mohaisreal&icon=6&color=0)](https://visitcount.itsvg.in)
 </h1>
 
-<h3 style="text-align: center">💫 About Me</h3>
+<h3 style="text-align:center">💫 About Me</h3>
 <br>
 <p style="text-align: center">Hey there! I'm MohaIsReal, a passionate learner and avid coder on a journey to explore the vast realm of technology. With a knack for unraveling new concepts and crafting innovative solutions, I've embarked on various projects, some of which I proudly showcase here. But hey, not everything sees the light of day — there are a few secret projects hidden up my sleeve. Shhhh, it's our little secret! Join me as I delve into the exciting world of coding and beyond. Let's learn, create, and maybe uncover a few mysteries along the way! 🚀✨<p/>
 
