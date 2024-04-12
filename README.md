@@ -1,22 +1,19 @@
-<h1 style="text-align:center">MohaIsReal
+<h1 align="center">MohaIsReal</h1>
 
-[![](https://visitcount.itsvg.in/api?id=mohaisreal&icon=6&color=0)](https://visitcount.itsvg.in)
-</h1>
+<p align="center">
+  <a href="https://visitcount.itsvg.in/api?id=mohaisreal&icon=6&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=mohaisreal&icon=6&color=0" alt="Visit Count">
+  </a>
+</p>
 
-<h3 style="text-align:center">💫 About Me</h3>
-<br>
-<p style="text-align: center">Hey there! I'm MohaIsReal, a passionate learner and avid coder on a journey to explore the vast realm of technology. With a knack for unraveling new concepts and crafting innovative solutions, I've embarked on various projects, some of which I proudly showcase here. But hey, not everything sees the light of day — there are a few secret projects hidden up my sleeve. Shhhh, it's our little secret! Join me as I delve into the exciting world of coding and beyond. Let's learn, create, and maybe uncover a few mysteries along the way! 🚀✨<p/>
+<h3 align="center">💫 About Me</h3>
+<hr/>
+<p align="center">Hey there! I'm MohaIsReal, a passionate learner and avid coder on a journey to explore the vast realm of technology. With a knack for unraveling new concepts and crafting innovative solutions, I've embarked on various projects, some of which I proudly showcase here. But hey, not everything sees the light of day — there are a few secret projects hidden up my sleeve. Shhhh, it's our little secret! Join me as I delve into the exciting world of coding and beyond. Let's learn, create, and maybe uncover a few mysteries along the way! 🚀✨</p>
 
-<h3 style="text-align: center">💻 Tech Stack</h3>
-
-<div style="display: flex; justify-content: center;">
-<div style="width: 30%; height: 50px; background-color: transparent; border-radius: 15px; display: flex; align-items: center; justify-content: center; gap: 3px;"><h5>Programming languages</h5></div>
-<div style="width: 30%; height: 50px; background-color: transparent; border-radius: 15px; display: flex; align-items: center; justify-content: center; gap: 3px;"><h5>Web Development</h5></div>
-<div style="width: 30%; height: 50px; background-color: transparent; border-radius: 15px; display: flex; align-items: center; justify-content: center; gap: 3px;"><h5>Other languages</h5></div>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <div style="width: 30%; height: 100px; background-color: transparent; border-color: white; border-style: solid; border-width: 5px; border-radius: 15px; display: flex; align-items: center; justify-content: center; gap: 3px;">
+<h3 align="center">💻 Tech Stack</h3>
+<hr/>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; border-color: white; border-style: solid; border-width: 5px; border-radius: 15px;">
+    <div style="width: 30%; height: 100px; background-color: transparent; display: flex; align-items: center; justify-content: center; gap: 3px;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -62,7 +59,7 @@
         />
     </a>
     </div>
-    <div style="width: 30%; height: 100px; background-color: transparent; border-color: white; border-style: solid; border-width: 5px; border-radius: 15px; display: flex; align-items: center; justify-content: center; gap: 3px;">
+    <div align="center" style="width: 30%; height: 100px; background-color: transparent; display: flex; gap: 3px;">
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -112,7 +109,7 @@
         />
     </a>
     </div>
-    <div style="width: 30%; height: 100px; background-color: transparent; border-color: white; border-style: solid; border-width: 5px; border-radius: 15px; display: flex; align-items: center; justify-content: center; gap: 3px;">
+    <div align="center" style="width: 30%; height: 100px; background-color: transparent; display: flex; gap: 3px;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -123,14 +120,9 @@
     </a>
     </div>
 </div>
-<p align="center">
-    
-</p>
 
-<h3 style="text-align: center">✍️ Dev Quote</h3>
+<h3 align="center">✍️ Dev Quote</h3>
 
 <div style="text-align:center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 </div>
