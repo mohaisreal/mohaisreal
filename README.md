@@ -122,7 +122,7 @@
 </div>
 
 <h3 align="center">✍️ Dev Quote</h3>
-
+<hr/>
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
