@@ -124,5 +124,7 @@
 <h3 align="center">✍️ Dev Quote</h3>
 
 <div style="text-align:center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 </div>
